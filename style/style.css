@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(53, 44, 44);
+  
+  text-align: center;
+}
+h1 {
+  margin: 50px;
+  color: white;
+  font-size: 60px;
+}
+div {
+  margin: 50px;
+}
+nav div a {
+  margin-top: 40px;
+  color: white;
+  text-decoration: none;
+  background-color: orange;
+  padding: 20px;
+  border-radius: 20px;
+}
+div.text{
+    margin-top: 100px;
+    color: aliceblue;
+    font-size: 3rem;
+}
+figure{
+  margin-top: 400px;
+  margin-bottom: 400px
+}
+#projects{
+  color: white;
+  text-decoration: underline;
+}
+.imgs{
+  border-radius: 20px;
+}
+.contact{
+  color: wheat;
+}
+.contact a{
+margin-left: 5px;
+margin-right: 25px;
+color: wheat;
+text-decoration: none;
+}
+h4{
+color: white;
+
+}
+.messages{
+  margin-top: 0;
+  display: flexbox;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+
+}
+.messages input{
+  border: 2px solid wheat;
+  margin-top: 10px;
+  padding: 20px;
+  width: 60%;
+  align-items: center;
+  text-align: center;
+  display: flexbox;
+  justify-content: center;
+}
+textarea{
+  width: 60%;
+  border: 2px solid wheat;
+  margin-top: 10px;
+}
+#sent{
+  background-color: wheat;
+  color: white;
+  font-size: 2rem;
+}
+#contakt{
+  color: white;
+  text-decoration: underline;
+}
